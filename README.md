@@ -1,24 +1,15 @@
-# mixology
+# Mixology
 
-## Project setup
-```
-yarn install
-```
+A web application that allows you to search for drink recipes using TheCocktailDb
 
-### Compiles and hot-reloads for development
+### How to start app?
+
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
-```
-yarn build
-```
+## Authors
 
-### Lints and fixes files
-```
-yarn lint
-```
+Contributors names and contact info
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+* Miłosz Kraiński
